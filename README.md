@@ -8,6 +8,7 @@
   My Gatsby Portfolio
 </h1>
 
+Deployed on Netlify using Github's Continous Deployment  
 
 ## 🧐 What's inside?
 
