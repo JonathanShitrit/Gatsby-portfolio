@@ -8,7 +8,7 @@
   My Gatsby Portfolio
 </h1>
 
-Deployed on Netlify using Github's Continous Deployment  
+Deployed on Netlify using Github's Continous Deployment  [DEMO](https://jonathan-shitrit-gatsby.netlify.app/)
 
 ## 🧐 What's inside?
 
